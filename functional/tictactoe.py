@@ -12,7 +12,7 @@ def main():
   x_mode = int(input(""" Select second player:
   1. Human
   2. PC
-  """))
+  """)) 
   #initialize (decide size of) board
   size = 3
   rows = range(size)
